@@ -201,6 +201,7 @@ body {
     background-image: url(/img/img.jpg);
     opacity: .5 ; 
 } */
+
 .header h1 {
   background: transparent;
   color: white;
@@ -1026,7 +1027,7 @@ body {
   border: 1px solid rgb(197, 195, 195);
   height: 200px;
   border-radius: 10px;
-  background-image: url(/img/recent1.jpg);
+  background-image: url(img/recent1.jpg);
   background-size: cover;
   transition: all .5s;
 }
@@ -1052,7 +1053,7 @@ body {
   border: 1px solid rgb(197, 195, 195);
   height: 200px;
   border-radius: 10px;
-  background-image: url(/img/recent2.jpg);
+  background-image: url(img/recent2.jpg);
   background-size: cover;
   transition: all .5s;
 }
@@ -1078,7 +1079,7 @@ body {
   border: 1px solid rgb(197, 195, 195);
   height: 200px;
   border-radius: 10px;
-  background-image: url(/img/recent3.jpg);
+  background-image: url(img/recent3.jpg);
   background-size: cover;
   transition: all .5s;
 }
