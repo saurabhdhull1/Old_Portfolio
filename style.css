@@ -1460,13 +1460,11 @@ textarea{
 
 
 
-
-
-  .services {
+    .services {
     height: auto;
-    width: 100%;
+    width: auto;
     margin: 20px auto;
-    padding: 10%;
+    padding: auto;
   }
 
   /* .services {
@@ -1484,21 +1482,23 @@ textarea{
     height: auto;
     width: auto;
     /* overflow: hidden; */
-    margin-bottom: 10px;
+    margin-bottom: 10px;  
     /* border: 1px solid black;   */
   }
 
   .servicesdiv div {
     height: 200px;
-    width: 300px;
+    width: auto;
     border: 1px solid rgb(212, 211, 211);
     border-radius: 10px;
     padding: 30px;
     text-align: center;
     transition: all .5s;
   }
+  
 
 
+  
 
   /* Pricing table */
 
